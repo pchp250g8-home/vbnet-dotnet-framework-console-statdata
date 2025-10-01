@@ -1,0 +1,11 @@
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\StatData\StatData\bin\Debug\StatData.exe.config
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\StatData\StatData\bin\Debug\StatData.exe
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\StatData\StatData\bin\Debug\StatData.pdb
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\StatData\StatData\bin\Debug\StatData.xml
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\StatData\StatData\obj\Debug\StatData.vbproj.AssemblyReference.cache
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\StatData\StatData\obj\Debug\StatData.Resources.resources
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\StatData\StatData\obj\Debug\StatData.vbproj.GenerateResource.cache
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\StatData\StatData\obj\Debug\StatData.vbproj.CoreCompileInputs.cache
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\StatData\StatData\obj\Debug\StatData.exe
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\StatData\StatData\obj\Debug\StatData.xml
+D:\Projects\Programming\VisualBasic\DotNetFrameWork\StatData\StatData\obj\Debug\StatData.pdb
